@@ -99,5 +99,5 @@ I am always open to collaborating and refining the UI of the app, as well as add
 ## 📧 Contact Me  
 You can reach out to me via email or connect with me on LinkedIn:
 
-- Email: [your-email@example.com](mailto:singhharsh25032008@gmail.com)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/harsh-singh-iiitkalyani)
+- Email: [singhharsh25032008@gmail.com](mailto:singhharsh25032008@gmail.com)
+- LinkedIn: [Harsh Singh](https://www.linkedin.com/in/harsh-singh-iiitkalyani)
